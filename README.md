@@ -14,6 +14,10 @@ GreatCalc is a fully VB.net based calculator for Windows
 To download:
 Go to Releases --> latest Release
 
-# Screenshots
+# Screenshots (latest Version)
 
+![alt text](MainWindow.png)
+
+
+![alt text](buttons.png)
 
