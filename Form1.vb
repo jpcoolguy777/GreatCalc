@@ -31,7 +31,7 @@
 
     Private Sub square_Click(sender As Object, e As EventArgs) Handles square.Click
         OP = 5
-        Label3.Text = "To the power of"
+        Label3.Text = "To the power of.."
         Label2.Text = "Desired number"
     End Sub
 
